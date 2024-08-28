@@ -9,7 +9,7 @@ function Testimonials() {
     modules: [Navigation],
     navigation: {
       nextEl: '.swiper-arrow-control .swiper-button-next',
-      nextEl: '.swiper-arrow-control .swiper-button-prev',
+      prevEl: '.swiper-arrow-control .swiper-button-prev',
     },
     spaceBetween: 30,
     loop: true,
